@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Data^3</string>
+    <string name="tab_name_0">RECORD</string>
+    <string name="tab_name_1">SAVED RECORDINGS</string>
+    <string name="butt_startRecording">START RECORDING</string>
+    <string name="lbl_videoName">Title</string>
+    <string name="lbl_duration">Duration</string>
+    <string name="lbl_recording">RECORDING...</string>
+    <string name="lbl_galleryEmpty">No Recordings Yet...</string>
+    <string name="lbl_error">An Error Occurred.</string>
+    <string name="toast_videoSaved">Video Saved</string>
+    <string name="toast_playback">Playback Unavailable</string>
+    <string name="toast_saveFailed">Failed To Save Video</string>
+    <string name="nullclock">X:XX</string>
+    <string name="untitled">Untitled</string>
+    <string name="error">An unexpected error has occurred</string>
+
+    <integer name="max_recording_duration">180</integer>
+    <integer name="min_recording_duration">15</integer>
+
+</resources>
